@@ -1,0 +1,1 @@
+export const shareJobLink = "https://castly.com/ApplicationsDetail"
